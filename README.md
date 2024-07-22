@@ -1,2 +1,2 @@
 # IML-project
-i jave completed all the hackerrank problems
+i have completed all the hackerrank problems
